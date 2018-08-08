@@ -37,6 +37,7 @@
 <sheet>
 <description>power supply</description>
 <plain>
+<frame x1="-10.16" y1="-15.24" x2="160.02" y2="101.6" columns="8" rows="5" layer="91"/>
 </plain>
 <instances>
 </instances>
